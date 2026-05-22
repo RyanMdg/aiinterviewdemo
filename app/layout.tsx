@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "AI Interview | Step Up Canada",
   description: "AI-powered interview platform for Step Up Canada instructor positions",
-  icons: { icon: "/icon.png" },
+  icons: { icon: "/favicon.ico" },
 };
 
 export default function RootLayout({
